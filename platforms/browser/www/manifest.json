@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Logbook Phone",
+  "short_name": "Logbook Phone",
+  "version": "io.cordova.hellocordova",
+  "description": "Logbook Phone App",
+  "author": "Michael Jonathan Lee",
+  "icons": [],
+  "start_url": "index.html"
+}
